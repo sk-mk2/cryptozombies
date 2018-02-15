@@ -4,3 +4,13 @@
 17:22:58.658731 version@stat F·[] S·0B[] Sc·[]
 17:22:58.701408 db@janitor F·2 G·0
 17:22:58.701491 db@open done T·44.928316ms
+=============== Feb 15, 2018 (JST) ===============
+14:44:07.217925 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:44:07.246496 version@stat F·[] S·0B[] Sc·[]
+14:44:07.246536 db@open opening
+14:44:07.246692 journal@recovery F·1
+14:44:07.247941 journal@recovery recovering @1
+14:44:07.335414 memdb@flush created L0@2 N·9 S·547B "H^\x1f..א\xe0,v3":"r\x00\x00..א\xe0,v5"
+14:44:07.335891 version@stat F·[1] S·547B[547B] Sc·[0.25]
+14:44:07.473738 db@janitor F·3 G·0
+14:44:07.473830 db@open done T·227.269949ms

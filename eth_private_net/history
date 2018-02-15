@@ -134,3 +134,10 @@ test.get()
 eth.hashrate
 miner.stop()
 eth.hashrate
+contract.get()
+eth.accounts
+eth.hashrate
+exti
+eth.accounts
+exti
+eth.hashrate

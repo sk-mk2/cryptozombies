@@ -1,0 +1,217 @@
+INFO [02-15|14:10:18] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:10:18] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:10:19] Initialised chain configuration          config="{ChainID: 777 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:10:19] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:10:19] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:10:19] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:10:19] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:10:19] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:10:19] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:10:19] Loaded local transaction journal         transactions=6 dropped=6
+INFO [02-15|14:10:19] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:10:19] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:10:19] Starting P2P networking 
+INFO [02-15|14:10:19] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:10:19] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:34:10] IPC endpoint closed: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:34:10] Blockchain manager stopped 
+INFO [02-15|14:34:10] Stopping Ethereum protocol 
+INFO [02-15|14:34:10] Ethereum protocol stopped 
+INFO [02-15|14:34:10] Transaction pool stopped 
+INFO [02-15|14:34:10] Database closed                          database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata
+INFO [02-15|14:42:56] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:42:56] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:42:57] Initialised chain configuration          config="{ChainID: 777 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:42:57] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:42:57] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:42:57] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:42:57] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:42:57] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:42:57] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:42:57] Loaded local transaction journal         transactions=0 dropped=0
+INFO [02-15|14:42:57] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:42:57] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:42:57] Starting P2P networking 
+INFO [02-15|14:42:57] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:42:57] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:43:26] IPC endpoint closed: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:43:26] Blockchain manager stopped 
+INFO [02-15|14:43:26] Stopping Ethereum protocol 
+INFO [02-15|14:43:26] Ethereum protocol stopped 
+INFO [02-15|14:43:26] Transaction pool stopped 
+INFO [02-15|14:43:26] Database closed                          database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata
+INFO [02-15|14:44:10] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:44:10] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:44:10] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:44:10] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:44:10] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:44:10] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:44:10] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:44:10] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:44:10] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:44:10] Loaded local transaction journal         transactions=0 dropped=0
+INFO [02-15|14:44:10] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:44:10] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:44:10] Starting P2P networking 
+INFO [02-15|14:44:10] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:44:10] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:45:03] IPC endpoint closed: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:45:03] Blockchain manager stopped 
+INFO [02-15|14:45:03] Stopping Ethereum protocol 
+INFO [02-15|14:45:03] Ethereum protocol stopped 
+INFO [02-15|14:45:03] Transaction pool stopped 
+INFO [02-15|14:45:03] Database closed                          database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata
+INFO [02-15|14:47:13] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:47:13] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:47:13] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:47:13] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:47:13] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:47:13] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:47:13] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:47:13] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:47:13] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:47:13] Loaded local transaction journal         transactions=0 dropped=0
+INFO [02-15|14:47:13] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:47:13] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:47:13] Starting P2P networking 
+INFO [02-15|14:47:13] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:47:13] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+Fatal: Error starting protocol stack: datadir already used by another process
+Fatal: Error starting protocol stack: datadir already used by another process
+INFO [02-15|14:50:50] IPC endpoint closed: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:50:50] Blockchain manager stopped 
+INFO [02-15|14:50:50] Stopping Ethereum protocol 
+INFO [02-15|14:50:50] Ethereum protocol stopped 
+INFO [02-15|14:50:50] Transaction pool stopped 
+INFO [02-15|14:50:50] Database closed                          database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata
+INFO [02-15|14:51:52] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:51:52] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:51:52] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:51:52] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:51:52] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:51:52] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:51:52] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:51:52] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:51:52] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:51:52] Loaded local transaction journal         transactions=0 dropped=0
+INFO [02-15|14:51:52] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:51:52] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:51:52] Starting P2P networking 
+INFO [02-15|14:51:52] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:51:52] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:51:52] HTTP endpoint opened: http://localhost:8545 
+INFO [02-15|14:51:55] Unlocked account                         address=0xF066E19Ec41DF881f3a90610ECB9992A8955220c
+INFO [02-15|14:51:55] Transaction pool price threshold updated price=18000000000
+INFO [02-15|14:51:55] Starting mining operation 
+INFO [02-15|14:51:55] Commit new mining work                   number=1932 txs=0 uncles=0 elapsed=131.707µs
+INFO [02-15|14:52:24] HTTP endpoint closed: http://localhost:8545 
+INFO [02-15|14:52:24] IPC endpoint closed: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:52:24] Blockchain manager stopped 
+INFO [02-15|14:52:24] Stopping Ethereum protocol 
+INFO [02-15|14:52:24] Ethereum protocol stopped 
+INFO [02-15|14:52:24] Transaction pool stopped 
+INFO [02-15|14:52:24] Database closed                          database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata
+INFO [02-15|14:52:34] Starting peer-to-peer node               instance=Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9
+INFO [02-15|14:52:34] Allocated cache and file handles         database=/home/sukenaga/git/cryptozombies/eth_private_net/geth/chaindata cache=128 handles=1024
+INFO [02-15|14:52:34] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [02-15|14:52:34] Disk storage enabled for ethash caches   dir=/home/sukenaga/git/cryptozombies/eth_private_net/geth/ethash count=3
+INFO [02-15|14:52:34] Disk storage enabled for ethash DAGs     dir=/home/sukenaga/.ethash                                       count=2
+INFO [02-15|14:52:34] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [02-15|14:52:34] Loaded most recent local header          number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:52:34] Loaded most recent local full block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:52:34] Loaded most recent local fast block      number=1931 hash=1ef4b6…a63dda td=418986933
+INFO [02-15|14:52:34] Loaded local transaction journal         transactions=0 dropped=0
+INFO [02-15|14:52:34] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [02-15|14:52:34] Blockchain not empty, fast sync disabled 
+INFO [02-15|14:52:34] Starting P2P networking 
+INFO [02-15|14:52:34] RLPx listener up                         self="enode://3b7db8e1603e04517f94f42302dc64301602047f5790e124b73b74d59db911ea9d8749ef7f9b1be53005f0d0fd9411bd199753a5e39e4f8b23493ed6e7a5af67@[::]:30303?discport=0"
+INFO [02-15|14:52:34] HTTP endpoint opened: http://localhost:8545 
+INFO [02-15|14:52:34] IPC endpoint opened: /home/sukenaga/git/cryptozombies/eth_private_net/geth.ipc 
+INFO [02-15|14:52:37] Unlocked account                         address=0xF066E19Ec41DF881f3a90610ECB9992A8955220c
+INFO [02-15|14:52:37] Transaction pool price threshold updated price=18000000000
+INFO [02-15|14:52:37] Starting mining operation 
+INFO [02-15|14:52:37] Commit new mining work                   number=1932 txs=0 uncles=0 elapsed=220.523µs
+INFO [02-15|14:53:53] Successfully sealed new block            number=1932 hash=9e1d57…983a31
+INFO [02-15|14:53:53] 🔨 mined potential block                  number=1932 hash=9e1d57…983a31
+INFO [02-15|14:53:53] Commit new mining work                   number=1933 txs=0 uncles=0 elapsed=152.942µs
+INFO [02-15|14:53:54] Successfully sealed new block            number=1933 hash=fb177a…54715c
+INFO [02-15|14:53:54] 🔨 mined potential block                  number=1933 hash=fb177a…54715c
+INFO [02-15|14:53:54] Commit new mining work                   number=1934 txs=0 uncles=0 elapsed=113.201µs
+INFO [02-15|14:53:57] Successfully sealed new block            number=1934 hash=9fac10…9392c5
+INFO [02-15|14:53:57] 🔨 mined potential block                  number=1934 hash=9fac10…9392c5
+INFO [02-15|14:53:57] Commit new mining work                   number=1935 txs=0 uncles=0 elapsed=143.183µs
+INFO [02-15|14:53:58] Successfully sealed new block            number=1935 hash=01a4ca…a134a6
+INFO [02-15|14:53:58] 🔨 mined potential block                  number=1935 hash=01a4ca…a134a6
+INFO [02-15|14:53:58] Commit new mining work                   number=1936 txs=0 uncles=0 elapsed=101.988µs
+INFO [02-15|14:53:58] Successfully sealed new block            number=1936 hash=7faa49…639ed2
+INFO [02-15|14:53:58] 🔨 mined potential block                  number=1936 hash=7faa49…639ed2
+INFO [02-15|14:53:58] Commit new mining work                   number=1937 txs=0 uncles=0 elapsed=133.376µs
+INFO [02-15|14:53:59] Successfully sealed new block            number=1937 hash=2092b1…67e8bc
+INFO [02-15|14:53:59] 🔗 block reached canonical chain          number=1932 hash=9e1d57…983a31
+INFO [02-15|14:53:59] 🔨 mined potential block                  number=1937 hash=2092b1…67e8bc
+INFO [02-15|14:53:59] Commit new mining work                   number=1938 txs=0 uncles=0 elapsed=99.255µs
+INFO [02-15|14:53:59] Successfully sealed new block            number=1938 hash=e87e35…917bff
+INFO [02-15|14:53:59] 🔗 block reached canonical chain          number=1933 hash=fb177a…54715c
+INFO [02-15|14:53:59] 🔨 mined potential block                  number=1938 hash=e87e35…917bff
+INFO [02-15|14:53:59] Mining too far in the future             wait=2s
+INFO [02-15|14:54:01] Commit new mining work                   number=1939 txs=0 uncles=0 elapsed=2.000s
+INFO [02-15|14:54:04] Successfully sealed new block            number=1939 hash=da6c82…bfabcc
+INFO [02-15|14:54:04] 🔗 block reached canonical chain          number=1934 hash=9fac10…9392c5
+INFO [02-15|14:54:04] 🔨 mined potential block                  number=1939 hash=da6c82…bfabcc
+INFO [02-15|14:54:04] Commit new mining work                   number=1940 txs=0 uncles=0 elapsed=90.111µs
+INFO [02-15|14:54:09] Successfully sealed new block            number=1940 hash=31633f…47da2e
+INFO [02-15|14:54:09] 🔗 block reached canonical chain          number=1935 hash=01a4ca…a134a6
+INFO [02-15|14:54:09] 🔨 mined potential block                  number=1940 hash=31633f…47da2e
+INFO [02-15|14:54:09] Commit new mining work                   number=1941 txs=0 uncles=0 elapsed=89.858µs
+INFO [02-15|14:54:10] Successfully sealed new block            number=1941 hash=b8b87b…11b4c2
+INFO [02-15|14:54:10] 🔗 block reached canonical chain          number=1936 hash=7faa49…639ed2
+INFO [02-15|14:54:10] 🔨 mined potential block                  number=1941 hash=b8b87b…11b4c2
+INFO [02-15|14:54:10] Commit new mining work                   number=1942 txs=0 uncles=0 elapsed=113.475µs
+INFO [02-15|14:54:12] Successfully sealed new block            number=1942 hash=336ed8…3f3916
+INFO [02-15|14:54:12] 🔗 block reached canonical chain          number=1937 hash=2092b1…67e8bc
+INFO [02-15|14:54:12] 🔨 mined potential block                  number=1942 hash=336ed8…3f3916
+INFO [02-15|14:54:12] Commit new mining work                   number=1943 txs=0 uncles=0 elapsed=118.757µs
+INFO [02-15|14:54:14] Successfully sealed new block            number=1943 hash=1cceae…3e6c0c
+INFO [02-15|14:54:14] 🔗 block reached canonical chain          number=1938 hash=e87e35…917bff
+INFO [02-15|14:54:14] 🔨 mined potential block                  number=1943 hash=1cceae…3e6c0c
+INFO [02-15|14:54:14] Commit new mining work                   number=1944 txs=0 uncles=0 elapsed=100.75µs
+INFO [02-15|14:54:17] Successfully sealed new block            number=1944 hash=a90b48…1e451e
+INFO [02-15|14:54:17] 🔗 block reached canonical chain          number=1939 hash=da6c82…bfabcc
+INFO [02-15|14:54:17] 🔨 mined potential block                  number=1944 hash=a90b48…1e451e
+INFO [02-15|14:54:17] Commit new mining work                   number=1945 txs=0 uncles=0 elapsed=116.723µs
+INFO [02-15|14:54:17] Successfully sealed new block            number=1945 hash=5737fa…fc9c9a
+INFO [02-15|14:54:17] 🔗 block reached canonical chain          number=1940 hash=31633f…47da2e
+INFO [02-15|14:54:17] 🔨 mined potential block                  number=1945 hash=5737fa…fc9c9a
+INFO [02-15|14:54:17] Commit new mining work                   number=1946 txs=0 uncles=0 elapsed=88.201µs
+INFO [02-15|14:54:18] Successfully sealed new block            number=1946 hash=d28a2b…8b9a4c
+INFO [02-15|14:54:18] 🔗 block reached canonical chain          number=1941 hash=b8b87b…11b4c2
+INFO [02-15|14:54:18] 🔨 mined potential block                  number=1946 hash=d28a2b…8b9a4c
+INFO [02-15|14:54:18] Commit new mining work                   number=1947 txs=0 uncles=0 elapsed=121.382µs
+INFO [02-15|14:54:19] Successfully sealed new block            number=1947 hash=6a4100…e895fe
+INFO [02-15|14:54:19] 🔗 block reached canonical chain          number=1942 hash=336ed8…3f3916
+INFO [02-15|14:54:19] 🔨 mined potential block                  number=1947 hash=6a4100…e895fe
+INFO [02-15|14:54:19] Commit new mining work                   number=1948 txs=0 uncles=0 elapsed=116.673µs
+INFO [02-15|14:54:21] Successfully sealed new block            number=1948 hash=e9ddf1…796ec9
+INFO [02-15|14:54:21] 🔗 block reached canonical chain          number=1943 hash=1cceae…3e6c0c
+INFO [02-15|14:54:21] 🔨 mined potential block                  number=1948 hash=e9ddf1…796ec9
+INFO [02-15|14:54:21] Commit new mining work                   number=1949 txs=0 uncles=0 elapsed=109.885µs
+INFO [02-15|14:54:23] Successfully sealed new block            number=1949 hash=7d2840…27c268
+INFO [02-15|14:54:23] 🔗 block reached canonical chain          number=1944 hash=a90b48…1e451e
+INFO [02-15|14:54:23] 🔨 mined potential block                  number=1949 hash=7d2840…27c268
+INFO [02-15|14:54:23] Commit new mining work                   number=1950 txs=0 uncles=0 elapsed=128.533µs
+INFO [02-15|14:54:24] Successfully sealed new block            number=1950 hash=25f160…34eff6
+INFO [02-15|14:54:24] 🔗 block reached canonical chain          number=1945 hash=5737fa…fc9c9a
+INFO [02-15|14:54:24] 🔨 mined potential block                  number=1950 hash=25f160…34eff6
+INFO [02-15|14:54:24] Commit new mining work                   number=1951 txs=0 uncles=0 elapsed=127.596µs
+INFO [02-15|14:54:25] Successfully sealed new block            number=1951 hash=41257a…b3ef10
+INFO [02-15|14:54:25] 🔗 block reached canonical chain          number=1946 hash=d28a2b…8b9a4c
+INFO [02-15|14:54:25] 🔨 mined potential block                  number=1951 hash=41257a…b3ef10
+INFO [02-15|14:54:25] Commit new mining work                   number=1952 txs=0 uncles=0 elapsed=96.777µs
+INFO [02-15|14:54:25] Successfully sealed new block            number=1952 hash=b95371…07fb5d
+INFO [02-15|14:54:25] 🔗 block reached canonical chain          number=1947 hash=6a4100…e895fe
+INFO [02-15|14:54:25] 🔨 mined potential block                  number=1952 hash=b95371…07fb5d
+INFO [02-15|14:54:25] Commit new mining work                   number=1953 txs=0 uncles=0 elapsed=121.281µs
+INFO [02-15|14:54:31] Successfully sealed new block            number=1953 hash=246c79…217f61
+INFO [02-15|14:54:31] 🔗 block reached canonical chain          number=1948 hash=e9ddf1…796ec9
+INFO [02-15|14:54:31] 🔨 mined potential block                  number=1953 hash=246c79…217f61
+INFO [02-15|14:54:31] Commit new mining work                   number=1954 txs=0 uncles=0 elapsed=137.393µs
